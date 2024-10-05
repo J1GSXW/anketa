@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "anketa-395005",
+  "private_key_id": "329ea72fdec75cb8b5a7f051241bafdb94c8e7ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDrzTcyRQ5PpzVH\nyl2Yr1MeO+jxnSPaS3NlIbDCXpYe1eFvZTYvL2Itqc7aQsUvnarK4LkvszdIs7L3\nI8r7XvhMxQAogVgK4gfYKxTKIM8sUuxV6fIeCBK58cu+GxBjRk9Ye88j7fWQXOU2\nU3iuLpAyzIx41xFtfFHR7XIJjan3yyNTQ3v93z5eNI/7ACc9r8/CSSbWFqwV9+sw\nh8xqcmAL/HPrmueMcW7SswWfGg4MQ3NDnMwSOGHUc1EDecJIKZ+kzB1SbytREuex\nfBw5CM/anOMcEoB6zNqAfjqNYJiFw9CHbYVVVfR41FKJfGxWkPIZ/11cctkzTXEk\njCsWaUJpAgMBAAECggEAYBNMxowxcQ3pXRdcfF4PKTXyyyMiHQr5+P45pXBhjS3K\n/RbJdX9CauWRtQdYjXaZxLC8c217fIFPTXgFd9cxpyHrVxWgWErRNGgVP+gPUXl1\n9ulrr4XNj3qv74TacACRSrWjZ/nIQKpA8BohhSLOuQvzvjau0KPDOJwdBzxzwNR5\nDivGAHnaW5ZbnIF636S2fo/Kde1gkkrUruqYBgBsvHsm8wEDlO8myEmzeZQ15eMh\n2MabIq03bJp+GaM+qPr9FEE77bmDOqpnQuNci3siJZygGKyVJmSvpS9SlAdO1wxz\ns+/54JbSIJUprM5m4yGseBBhVysCSs5QcDApQQKhAwKBgQD6vww0g/EGF6dwP2CQ\nDuhbMh5wjUpa3Z6PUJkJxddcL4Db0P/M3BUr3msTJrjxKh+k3LTA3zo0A3eWGE3M\nUG8JKWdveM/5mh2ZJOz+SJzvy9gNoiuO8f9q/Qz0aiBVD4TFApY/Spp8PksaQyVx\nFpnv4Y0pl2NTLgNJcRjM+blsFwKBgQDwvgIAfuStbQqeDxGcfijdKSfDiBuy2Bct\n40QtZQY2DjZVK4NbLB+ASJmS+tgG4Ayxu4q87CZ6OjZaecz+JexG+7kyhs8T1upl\nu5K2d4awbTHQPlhhRIZMf2vF8yTa71fYLlM2fHeYd10N5maXmxg6IVoonVyg16dq\njUsAal9VfwKBgCSF83cqyM7EX0VAVgZlxX6THE/0pKH7qf7iFIiR4r6wxKpAFSJ3\n5DWRnjMZ7tJh+l3/L+zwFwBAiQi53YsnJCVHfKOGC3Ul96247TRUy1c6b+v8dS/L\nHBMvbNWlJ7R8IDC6IbxyV3JFeJcItMl2K1H/npoyTOtuxlfKO3yP22xdAoGAcycv\n5fTMhXgHABvNHMHr4f3xm0HbnexnCfgPgHc2RVz++DZcGpw8ZSxU6U07T+6To+BF\nOKDstsJphVWFjHuvTTTTHSwGmULP0+GpB8ackn9ouGdZ9wzEAItijckD9AVQS4O9\nIe7fdfqCdEelAxeYuxWA/rRmvjjpR7pWCdjXyRkCgYBnnuWP+qtzYFklgCEW7AC4\norl9IKny7mnMN1bBqOSYCEptWQOjurS0clFHX4ODZsQSCi1PemOMiw4/aU2AwL/n\nkJ+6pE3i5BTd+WcW/WDY8pKyeALYnYb6x6Df554cXLpzwQRoRkQ2erNn91asmzDM\nFh+Q5YgivsJ2R0o88/RaAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "anketa@anketa-395005.iam.gserviceaccount.com",
+  "client_id": "112914713416676647777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anketa%40anketa-395005.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
